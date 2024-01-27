@@ -1,10 +1,10 @@
 # Restuarants Review Rating Classification 🥘 🍱
-This project aims to predict restaurant ratings (stars) using:
-> Logistic Regression, Convolutional Neural Network (CNN),
-and perform sentiment based on text reviews using:
-> WangchanBERTa
+This project aims to predict restaurant ratings (stars) using **Logistic Regression**, Convolutional Neural Network (**CNN**) <br>
+and perform sentiment based on text reviews using **WangchanBERTa**
+
+
 > [!NOTE]
-> 5 (stars) categories for Logistic Regression and CNN
+> 5 (stars) categories for Logistic Regression and CNN <br>
 > 3 (sentiments) categories for BERT
 
 ## DATA SET 🍛🍜
